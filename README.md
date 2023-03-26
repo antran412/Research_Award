@@ -1,1 +1,4 @@
 # Research_Award
+
+As a university recognized as an R1 Carnegie Research University, University of Nevada-Reno has been continuing researching and investing in research facilities, faculty and the research areas. The analysis of awards that Universtity, divided by unit, cost center, pi and year can help us understand more about the efficiency of research activites of university, the cost center in each unit needs more attention to develop and should get more attention and investment from University leader for the better expansion in research areas, faculty and students. 
+As the same time, the number of awards that Principal Investigator receive every year can also help them to be recognized in the unit as well as in the Universtity level. The recognization is one of the ways to encourage faculty to continue contribution to the university's research in specific and to the world's research in general. 
